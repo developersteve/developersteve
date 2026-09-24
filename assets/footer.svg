@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="58" viewBox="0 0 840 58" role="img" aria-label="Built in Clermont, QLD. Powered by solar, curiosity and open source.">
+<title>Built in Clermont, QLD. Powered by solar, curiosity and open source.</title>
+<style>@keyframes node{from{transform:translateX(0)}to{transform:translateX(760px)}}.node{animation:node 6s cubic-bezier(.45,0,.55,1) infinite alternate}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="trace" x1="0" x2="1"><stop offset="0" stop-color="#70ba65" stop-opacity="0"/><stop offset=".5" stop-color="#70ba65" stop-opacity=".45"/><stop offset="1" stop-color="#70ba65" stop-opacity="0"/></linearGradient>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="840" height="58" rx="14" fill="#02162B"/>
+<rect x="40" y="12" width="760" height="1.5" fill="url(#trace)"/>
+<circle class="node" cx="40" cy="12.75" r="2.6" fill="#c2f59c" filter="url(#soft)"/>
+<text x="420.0" y="39" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.4" fill="#919ca1">BUILT IN CLERMONT, QLD <tspan fill="#70ba65">/</tspan> POWERED BY SOLAR, CURIOSITY &amp; OPEN SOURCE</text>
+</svg>
