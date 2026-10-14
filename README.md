@@ -67,7 +67,7 @@ A few from the 291:
 - [Held to domain ransom](https://clermontdigital.com.au/blog/held-to-domain-ransom) <sub>Clermont Digital · 9 Jul 2026</sub>
 - [When the flood takes your electronics, you build something better](https://clermontdigital.com.au/blog/when-the-flood-takes-your-electronics-you-build-something-better) <sub>Clermont Digital · 2 Jun 2026</sub>
 - [How MysteryOS turned an alien operating system into a puzzle game](https://clermontdigital.com.au/blog/how-mysteryos-turned-an-alien-operating-system-into-a-puzzle-game) <sub>Clermont Digital · 13 Mar 2026</sub>
-- [How I Integrated Snyk Into AI-Driven Development at Clermont Digital](https://medium.com/@developersteve/how-i-integrated-snyk-into-ai-driven-development-at-clermont-digital-59a26b51b858) <sub>Medium · 8 Oct 2025</sub>
+- [Who actually holds the keys to your business?](https://clermontdigital.com.au/blog/who-holds-the-keys-to-your-business) <sub>Clermont Digital · 2 Mar 2026</sub>
 <!-- LATEST-WRITING:END -->
 
 <sub>Refreshed daily from <a href="https://medium.com/@developersteve">Medium</a> and the <a href="https://clermontdigital.com.au/blog">Clermont Digital blog</a>.</sub>
