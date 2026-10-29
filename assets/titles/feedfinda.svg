@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="272" height="124" viewBox="0 0 272 124" role="img" aria-label="Co-Founder, FeedFinda: Map-based hay &amp; feed marketplace">
 <title>Co-Founder, FeedFinda: Map-based hay &amp; feed marketplace</title>
-<style>@keyframes shine{0%{transform:translateX(-80px) skewX(-20deg)}30%,100%{transform:translateX(360px) skewX(-20deg)}}.sh{animation:shine 8s ease-in-out 3.75s infinite;transform:translateX(-80px)}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<style>@keyframes shine{0%{transform:translateX(-80px) skewX(-20deg)}30%,100%{transform:translateX(360px) skewX(-20deg)}}.sh{animation:shine 8s ease-in-out 4.20s infinite;transform:translateX(-80px)}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
 <defs>
 <radialGradient id="g" cx=".5" cy="0" r="1" gradientTransform="matrix(1.2 0 0 .8 -.1 0)"><stop offset="0" stop-color="#70ba65" stop-opacity=".16"/><stop offset=".62" stop-color="#70ba65" stop-opacity="0"/></radialGradient>
 <linearGradient id="sheen" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>

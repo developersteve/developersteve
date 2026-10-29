@@ -35,12 +35,16 @@ W = 840  # GitHub's profile README column is ~830px; everything scales down from
 
 # Same roles as TYPED_ROLES on the site, lightly tidied.
 ROLES = [
-    "a CEO",
+    "a Co-CEO",
     "a CTO",
+    "a Company Director",
     "a CIO",
+    "a Co-Founder",
+    "a Mentor",
+    "a Teacher",
+    "a Public Speaker",
     "a Developer",
     "a Developer Evangelist",
-    "a Public Speaker",
     "an Author",
     "a Blogger",
     "an Event Organiser",
@@ -60,13 +64,17 @@ STATS = [
     ("600", "+", "Articles", "Blogs & Tutorials"),
 ]
 
+# Same titles as the site's Titles grid. A title with no url is still under wraps.
 TITLES = [
-    ("aeris", "CEO", "AERIS", "ERP for Australian trade businesses", "aeris.team"),
+    ("stealth-startup", "Co-CEO / CTO", "Stealth Startup", "Something new. Under wraps for now.", None),
     ("clermont-digital", "Technical Director", "Clermont Digital", "Digital agency. Built in Clermont.", "clermontdigital.com.au"),
     ("coochin-co", "Director", "The Coochin Co.", "Tech, digital & creative ventures", "thecoochin.co"),
     ("mysteryos", "Creator", "MysteryOS", "Puzzle-survival game, Steam & mobile", "mysteryos.app"),
+    ("settlesound", "Creator", "Settle Sound", "Binaural beats & calm tones app", "settlesound.com"),
     ("plotplan", "Co-Founder", "PlotPlan.land", "Property layout on satellite imagery", "plotplan.land"),
     ("feedfinda", "Co-Founder", "FeedFinda", "Map-based hay & feed marketplace", "feedfinda.com.au"),
+    ("stealth-podcast", "Co-Founder", "Stealth Podcast", "A new show. Still in stealth.", None),
+    ("muster-learn", "Teacher", "Muster Learn", "Free short courses on your phone", "learn.muster.life"),
 ]
 
 WORKED_WITH = [
@@ -254,7 +262,7 @@ def build_header() -> str:
 </g>
 
 <text x="{title_x + 2}" y="270" font-family="{MONO}" font-size="12" letter-spacing="1.6" fill="{MUTED}">CENTRAL QLD, AUSTRALIA <tspan fill="{GREEN}">/</tspan> GMT+10 <tspan fill="{GREEN}">/</tspan> OFF-GRID <tspan fill="{GREEN}">/</tspan> SOLAR POWERED</text>"""
-    return svg(W, H, "DeveloperSteve: Steven Coochin, technology leader, startup CEO and developer advocate", body, "".join(css))
+    return svg(W, H, "DeveloperSteve: Steven Coochin, technology leader, company director and developer advocate", body, "".join(css))
 
 
 # --------------------------------------------------------------------------- stats
@@ -294,7 +302,7 @@ def build_stats() -> str:
 
 # --------------------------------------------------------------------------- title badges
 
-def build_title(role: str, name: str, tagline: str, url: str, index: int) -> str:
+def build_title(role: str, name: str, tagline: str, url: str | None, index: int) -> str:
     BW, BH = 272, 124
     c = 14  # corner accent length
     corners = (
@@ -317,7 +325,7 @@ def build_title(role: str, name: str, tagline: str, url: str, index: int) -> str
 <text x="22" y="34" font-family="{MONO}" font-size="10.5" letter-spacing="2.4" fill="{GREEN}">{escape(role.upper())}</text>
 <text x="22" y="64" font-family="{SANS}" font-size="22" font-weight="800" fill="{WHITE}">{escape(name)}</text>
 <text x="22" y="87" font-family="{SANS}" font-size="12.5" fill="{MUTED}">{escape(tagline)}</text>
-<text x="22" y="108" font-family="{MONO}" font-size="11" fill="{GREEN}" fill-opacity=".85">↗ {escape(url)}</text>"""
+{f'<text x="22" y="108" font-family="{MONO}" font-size="11" fill="{GREEN}" fill-opacity=".85">↗ {escape(url)}</text>' if url else f'<text x="22" y="108" font-family="{MONO}" font-size="11" fill="{MUTED}" fill-opacity=".85">● in stealth</text>'}"""
     return svg(BW, BH, f"{role}, {name}: {tagline}", body, css)
 
 
