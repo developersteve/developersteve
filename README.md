@@ -68,12 +68,12 @@ A few from the 291:
 ## 06 · Latest writing
 
 <!-- LATEST-WRITING:START -->
+- [Learn digital skills without leaving the region](https://clermontdigital.com.au/blog/learn-digital-skills-without-leaving-the-region) <sub>Clermont Digital · 3 Nov 2026</sub>
 - [Your business grew. Did your systems?](https://clermontdigital.com.au/blog/your-business-grew-did-your-systems) <sub>Clermont Digital · 10 Aug 2026</sub>
 - [Clermont Digital just tripled, and our newest developer never had to leave town](https://clermontdigital.com.au/blog/clermont-digital-just-tripled-and-our-newest-developer-never-had-to-leave-town) <sub>Clermont Digital · 2 Aug 2026</sub>
 - [Held to domain ransom](https://clermontdigital.com.au/blog/held-to-domain-ransom) <sub>Clermont Digital · 9 Jul 2026</sub>
 - [When the flood takes your electronics, you build something better](https://clermontdigital.com.au/blog/when-the-flood-takes-your-electronics-you-build-something-better) <sub>Clermont Digital · 2 Jun 2026</sub>
 - [How MysteryOS turned an alien operating system into a puzzle game](https://clermontdigital.com.au/blog/how-mysteryos-turned-an-alien-operating-system-into-a-puzzle-game) <sub>Clermont Digital · 13 Mar 2026</sub>
-- [Who actually holds the keys to your business?](https://clermontdigital.com.au/blog/who-holds-the-keys-to-your-business) <sub>Clermont Digital · 2 Mar 2026</sub>
 <!-- LATEST-WRITING:END -->
 
 <sub>Refreshed daily from <a href="https://medium.com/@developersteve">Medium</a> and the <a href="https://clermontdigital.com.au/blog">Clermont Digital blog</a>.</sub>
