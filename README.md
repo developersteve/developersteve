@@ -23,7 +23,7 @@ I do all of it from an off-grid property outside Clermont in Central Queensland.
 <p align="center">
   <img src="assets/titles/stealth-startup.svg" width="32%" alt="Co-CEO / CTO, Stealth Startup: something new, under wraps for now">
   <a href="https://clermontdigital.com.au"><img src="assets/titles/clermont-digital.svg" width="32%" alt="Technical Director, Clermont Digital: digital agency built in Clermont"></a>
-  <a href="https://thecoochin.co"><img src="assets/titles/coochin-co.svg" width="32%" alt="Director, The Coochin Co.: technology, digital and creative ventures"></a>
+  <a href="https://www.chrrup.org.au"><img src="assets/titles/chrrup.svg" width="32%" alt="Director, CHRRUP: rural business support and community development"></a>
   <a href="https://mysteryos.app"><img src="assets/titles/mysteryos.svg" width="32%" alt="Creator, MysteryOS: puzzle-survival game on Steam and mobile"></a>
   <a href="https://settlesound.com"><img src="assets/titles/settlesound.svg" width="32%" alt="Creator, Settle Sound: binaural beats and calm tones app"></a>
   <a href="https://plotplan.land"><img src="assets/titles/plotplan.svg" width="32%" alt="Co-Founder, PlotPlan.land: property layout on satellite imagery"></a>

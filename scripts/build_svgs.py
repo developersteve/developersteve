@@ -68,7 +68,7 @@ STATS = [
 TITLES = [
     ("stealth-startup", "Co-CEO / CTO", "Stealth Startup", "Something new. Under wraps for now.", None),
     ("clermont-digital", "Technical Director", "Clermont Digital", "Digital agency. Built in Clermont.", "clermontdigital.com.au"),
-    ("coochin-co", "Director", "The Coochin Co.", "Tech, digital & creative ventures", "thecoochin.co"),
+    ("chrrup", "Director", "CHRRUP", "Rural business & community support", "chrrup.org.au"),
     ("mysteryos", "Creator", "MysteryOS", "Puzzle-survival game, Steam & mobile", "mysteryos.app"),
     ("settlesound", "Creator", "Settle Sound", "Binaural beats & calm tones app", "settlesound.com"),
     ("plotplan", "Co-Founder", "PlotPlan.land", "Property layout on satellite imagery", "plotplan.land"),
